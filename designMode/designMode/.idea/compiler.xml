@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="designMode" />
+        <module name="LeetCode" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="designMode" options="-parameters" />
+      <module name="LeetCode" options="-parameters" />
+      <module name="designMode" options="" />
     </option>
   </component>
 </project>
