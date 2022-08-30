@@ -6,6 +6,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>LeetCode</module>
+        <module>interview</module>
+        <module>dataStruct</module>
     </modules>
 
     <parent>
