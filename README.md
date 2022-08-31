@@ -7,3 +7,7 @@ this project just to storage all about java
 -javaStudyAndProject
   |-spring
   |-designMode
+     |-dataStruct
+     |-interview
+     |-LeetCode
+     |-(origin)designMode
