@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Q1 {
+    //一定要按照华为的标准进去
     static HashMap<String, Integer> map;
     static HashMap<String, Integer> countMap;
 
