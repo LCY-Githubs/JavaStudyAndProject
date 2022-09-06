@@ -88,5 +88,10 @@ public class Heap<T extends Comparable<T>> {
         }
     }
 
+    public static void main(String[] args) {
+        String s= "dasda";
+        s.substring(0,s.length()-1);
+    }
+
 
 }
