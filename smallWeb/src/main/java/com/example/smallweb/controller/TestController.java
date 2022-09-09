@@ -16,4 +16,11 @@ public class TestController {
         testService.test();
         return "Hello";
     }
+
+    @RequestMapping("/testRedis")
+    public String testRedis(){
+        testService.test();
+        return "Hello";
+    }
+
 }
