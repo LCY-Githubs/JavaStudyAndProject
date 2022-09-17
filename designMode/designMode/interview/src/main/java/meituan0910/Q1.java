@@ -16,6 +16,7 @@ public class Q1 {
             int y = Integer.parseInt(arg[2]);
             int k = Integer.parseInt(arg[3]);
             judge(n,x,y,k);
+
         }
     }
     public static void judge(int n,int x,int y,int k){
